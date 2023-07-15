@@ -1,7 +1,7 @@
 function AnimalShow({ type }) {
   return (
-    <div>{type}</div>;
-  )
+    <div>{type}</div>
+  );
 }
 
 export default AnimalShow;

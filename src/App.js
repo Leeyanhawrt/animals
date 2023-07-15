@@ -22,7 +22,7 @@ function App() {
   return (
     <div>
       <button onClick={handleClick}>Add animal</button>
-      <div>{animals}</div>
+      <div>{renderedAnimals}</div>
     </div>
   )
 }
